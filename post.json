@@ -1,0 +1,6 @@
+{
+  "event": "new_reading",
+  "url": "https://spookysgarden.herokuapp.com/api/v1/readings",
+  "deviceid": "580037001051353338363333",
+  "requestType": "POST"
+}
